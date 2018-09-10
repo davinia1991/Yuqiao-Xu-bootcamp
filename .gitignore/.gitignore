@@ -1,0 +1,6 @@
+echo "# Yuqiao-Xu-bootcamp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/davinia1991/Yuqiao-Xu-bootcamp.git
+git push -u origin master
