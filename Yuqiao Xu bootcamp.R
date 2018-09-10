@@ -1,5 +1,5 @@
 ##read a file for data ######
-ILIData <- read_excel(ILIData)
+ILIData <- read.table(ILIData)
 
 ####### Name varibales of in Data #############
 surveyID <- ILIData$Survey.ID
